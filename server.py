@@ -25,4 +25,5 @@ if __name__ == "__main__":
     url="http://127.0.0.1:9090/v1/bw_score/hotel_list"
     res = GetRequest(url)
     print res
+    print res
 
