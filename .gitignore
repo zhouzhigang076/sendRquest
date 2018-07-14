@@ -1,4 +1,4 @@
-# ignore .pyc profile
+# ignore some profile
+
 *.pyc
-*.xml
-.idea/**/.*ml
+idea/\*
